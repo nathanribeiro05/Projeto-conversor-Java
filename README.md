@@ -52,4 +52,9 @@ Feito com :heart: por <a href='https://github.com/nathanribeiro05' target='_blan
 
 &#xa0;
 
+<h3>BADGE recebida referente ao desafio proposto concluído.</h3>
+<p align="center">
+  <img alt="Badge" src="https://i.imgur.com/abeUpPc.png" width="50%">
+</p>
+
 <a href='#top'>Voltar para o topo</a>
