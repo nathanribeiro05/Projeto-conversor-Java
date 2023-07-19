@@ -6,8 +6,8 @@ Java da turma 5 do Programa ONE, da Oracle + Alura. <br/>
 </p>
 
 <p align="center">
-  <a href="#-tecnologias">Tecnologias</a>;
-  <a href="#-projeto">Projeto</a>
+  <a href="#-tecnologias">Tecnologias</a> | 
+  <a href="#-projeto">Projeto</a> | 
   <a href='https://github.com/nathanribeiro05' target='_blank'>Autor</a>
 </p>
 <br>
